@@ -1,0 +1,11 @@
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Domain\bin\Debug\net10.0\MiProyectoOnion.Domain.deps.json
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Domain\bin\Debug\net10.0\MiProyectoOnion.Domain.dll
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Domain\bin\Debug\net10.0\MiProyectoOnion.Domain.pdb
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Domain\obj\Debug\net10.0\MiProyectoOnion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Domain\obj\Debug\net10.0\MiProyectoOnion.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Domain\obj\Debug\net10.0\MiProyectoOnion.Domain.AssemblyInfo.cs
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Domain\obj\Debug\net10.0\MiProyectoOnion.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Domain\obj\Debug\net10.0\MiProyectoOnion.Domain.dll
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Domain\obj\Debug\net10.0\refint\MiProyectoOnion.Domain.dll
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Domain\obj\Debug\net10.0\MiProyectoOnion.Domain.pdb
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Domain\obj\Debug\net10.0\ref\MiProyectoOnion.Domain.dll
