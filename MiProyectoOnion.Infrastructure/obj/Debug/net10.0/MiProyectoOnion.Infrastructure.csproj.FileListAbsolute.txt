@@ -1,0 +1,17 @@
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Infrastructure\bin\Debug\net10.0\MiProyectoOnion.Infrastructure.deps.json
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Infrastructure\bin\Debug\net10.0\MiProyectoOnion.Infrastructure.dll
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Infrastructure\bin\Debug\net10.0\MiProyectoOnion.Infrastructure.pdb
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Infrastructure\bin\Debug\net10.0\MiProyectoOnion.Application.dll
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Infrastructure\bin\Debug\net10.0\MiProyectoOnion.Domain.dll
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Infrastructure\bin\Debug\net10.0\MiProyectoOnion.Application.pdb
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Infrastructure\bin\Debug\net10.0\MiProyectoOnion.Domain.pdb
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Infrastructure\obj\Debug\net10.0\MiProyectoOnion.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Infrastructure\obj\Debug\net10.0\MiProyectoOnion.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Infrastructure\obj\Debug\net10.0\MiProyectoOnion.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Infrastructure\obj\Debug\net10.0\MiProyectoOnion.Infrastructure.AssemblyInfo.cs
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Infrastructure\obj\Debug\net10.0\MiProyectoOnion.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Infrastructure\obj\Debug\net10.0\MiProyec.1FD0502B.Up2Date
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Infrastructure\obj\Debug\net10.0\MiProyectoOnion.Infrastructure.dll
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Infrastructure\obj\Debug\net10.0\refint\MiProyectoOnion.Infrastructure.dll
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Infrastructure\obj\Debug\net10.0\MiProyectoOnion.Infrastructure.pdb
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Infrastructure\obj\Debug\net10.0\ref\MiProyectoOnion.Infrastructure.dll

@@ -1,0 +1,15 @@
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Application\bin\Debug\net10.0\MiProyectoOnion.Application.deps.json
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Application\bin\Debug\net10.0\MiProyectoOnion.Application.dll
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Application\bin\Debug\net10.0\MiProyectoOnion.Application.pdb
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Application\bin\Debug\net10.0\MiProyectoOnion.Domain.dll
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Application\bin\Debug\net10.0\MiProyectoOnion.Domain.pdb
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Application\obj\Debug\net10.0\MiProyectoOnion.Application.csproj.AssemblyReference.cache
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Application\obj\Debug\net10.0\MiProyectoOnion.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Application\obj\Debug\net10.0\MiProyectoOnion.Application.AssemblyInfoInputs.cache
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Application\obj\Debug\net10.0\MiProyectoOnion.Application.AssemblyInfo.cs
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Application\obj\Debug\net10.0\MiProyectoOnion.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Application\obj\Debug\net10.0\MiProyec.3DF83649.Up2Date
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Application\obj\Debug\net10.0\MiProyectoOnion.Application.dll
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Application\obj\Debug\net10.0\refint\MiProyectoOnion.Application.dll
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Application\obj\Debug\net10.0\MiProyectoOnion.Application.pdb
+C:\Users\user\Documents\MiProyectoOnion\MiProyectoOnion.Application\obj\Debug\net10.0\ref\MiProyectoOnion.Application.dll

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MiProyectoOnion.Application/MiProyectoOnion.Application.csproj" />
+  <Project Path="MiProyectoOnion.ConsoleApp/MiProyectoOnion.ConsoleApp.csproj" />
+  <Project Path="MiProyectoOnion.Domain/MiProyectoOnion.Domain.csproj" />
+  <Project Path="MiProyectoOnion.Infrastructure/MiProyectoOnion.Infrastructure.csproj" />
+</Solution>
